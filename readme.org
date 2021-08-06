@@ -1,0 +1,5 @@
+This is modified from https://github.com/agzam/mw-thesaurus.el. Learner dictionary is totally usable.
+
+While collegiate is usable but have some wrinkles to iron.
+
+Added a function to save the queried word to a vocabulary builder file you specify with variable ~mw-learner-builder-file~ or ~mw-collegiate-builder-file~.
