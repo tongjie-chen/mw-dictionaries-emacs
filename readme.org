@@ -3,3 +3,6 @@ This is modified from https://github.com/agzam/mw-thesaurus.el. Learner dictiona
 While collegiate is usable but have some wrinkles to iron.
 
 Added a function to save the queried word to a vocabulary builder file you specify with variable ~mw-learner-builder-file~ or ~mw-collegiate-builder-file~.
+
+* Usage
+You can look up words at point with ~mw-learner-lookup-at-point~ or ~mw-collegiate-lookup-at-point~. A function to search with argument is applied as ~mw-learner-lookup-string~
